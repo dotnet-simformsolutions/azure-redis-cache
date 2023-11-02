@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/jil1710/AzureRedis/assets/125335932/83decc43-eb16-492d-be08-5c5bdade779d" alt="drawing" width="220" height="100"/> 
+<img src="/images/270865885-83decc43-eb16-492d-be08-5c5bdade779d.png" alt="drawing" width="220" height="100"/> 
 
 # Azure Redis Cache
 
@@ -8,7 +8,7 @@
 
 -  The cache is the memory storage that is used to store the frequent access data into the temporary storage, it will improve the performance drastically and avoid unnecessary database hit and store frequently used data into the cache.
 
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/19813832-eabb-42b6-8e1b-3c8de1602d6a)
+    ![image](/images/270869741-19813832-eabb-42b6-8e1b-3c8de1602d6a.png)
 
 
 ## Types of Cache
@@ -61,7 +61,7 @@ Redis is an in-memory database that stores data in the server memory and a popul
       }
     ```
     
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/6912f38d-a38a-4f66-bfb0-9fe3e0ab484f)
+    ![image](/images/270866989-6912f38d-a38a-4f66-bfb0-9fe3e0ab484f.png)
 
 
 - **Step 4 :**
@@ -75,21 +75,18 @@ Redis is an in-memory database that stores data in the server memory and a popul
 
 - Here I performed simple example in which, I fetch the product data from external service api so instead of calling the service again an again we cache the data into azure redis that helps to improve the perfomance.
 
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/b83fc459-e9d1-4d12-9e98-fb7778ba3d74)
+    ![image](/images/270868465-b83fc459-e9d1-4d12-9e98-fb7778ba3d74.png)
 
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/7b79c92a-660d-40bf-8124-d6c16121b5ca)
+    ![image](/images/270868315-7b79c92a-660d-40bf-8124-d6c16121b5ca.png)
 
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/0173ab7f-932d-4e7c-b1af-f560a9ebed48)
+    ![image](/images/270868208-0173ab7f-932d-4e7c-b1af-f560a9ebed48.png)
 
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/28d0892f-7caf-4643-8c2c-88808a465a3c)
+    ![image](/images/270868585-28d0892f-7caf-4643-8c2c-88808a465a3c.png)
 
 - After saving the data into azure redis cache
   
-    ![image](https://github.com/jil1710/AzureRedis/assets/125335932/41a9deb1-d67d-4d70-91ac-30ea6910cf11)
+    ![image](/images/270869545-41a9deb1-d67d-4d70-91ac-30ea6910cf11.png)
 
-
-
-  - [click here to see demo](https://github.com/jil1710/AzureRedis/tree/master/AzureRedis)
 
 
 
